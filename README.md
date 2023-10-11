@@ -5,9 +5,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
 
