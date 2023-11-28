@@ -49,4 +49,4 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU Lesser General Public License v2.1 - see the [LICENSE.md](LICENSE.md) file for details.
